@@ -1,0 +1,3 @@
+/Users/oguzhan/Desktop/CProgrammingExamples/BasicDataTypes/basicDataTypes3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oguzhan/Desktop/CProgrammingExamples/BasicDataTypes/basicDataTypes3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oguzhan/Desktop/CProgrammingExamples/BasicDataTypes/basicDataTypes3/cmake-build-debug/CMakeFiles/basicDataTypes3.dir
