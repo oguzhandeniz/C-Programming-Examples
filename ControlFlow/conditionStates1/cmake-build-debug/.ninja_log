@@ -1,0 +1,9 @@
+# ninja log v5
+0	73	1643425559201492005	CMakeFiles/conditionStates1.dir/main.c.o	d0ca81895da1dbce
+74	168	1643425559295597496	conditionStates1	367f0c2c1b703c8a
+1	108	1643425803943193090	CMakeFiles/conditionStates1.dir/main.c.o	d0ca81895da1dbce
+108	217	1643425804053160964	conditionStates1	367f0c2c1b703c8a
+1	89	1643425837188135025	CMakeFiles/conditionStates1.dir/main.c.o	d0ca81895da1dbce
+89	192	1643425837291464787	conditionStates1	367f0c2c1b703c8a
+0	279	1643426479173127062	CMakeFiles/conditionStates1.dir/main.c.o	d0ca81895da1dbce
+280	360	1643426479254629202	conditionStates1	367f0c2c1b703c8a
