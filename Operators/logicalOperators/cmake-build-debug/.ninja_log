@@ -1,0 +1,11 @@
+# ninja log v5
+0	133	1643324581666497043	CMakeFiles/logicalOperators.dir/main.c.o	cb4cf2461dcd4b5d
+134	215	1643324581749347909	logicalOperators	304a907e07a340a2
+0	55	1643324611699019453	CMakeFiles/logicalOperators.dir/main.c.o	cb4cf2461dcd4b5d
+55	110	1643324611755427687	logicalOperators	304a907e07a340a2
+0	52	1643324667044833550	CMakeFiles/logicalOperators.dir/main.c.o	cb4cf2461dcd4b5d
+52	120	1643324667111889973	logicalOperators	304a907e07a340a2
+0	44	1643324720216731402	CMakeFiles/logicalOperators.dir/main.c.o	cb4cf2461dcd4b5d
+44	99	1643324720271077590	logicalOperators	304a907e07a340a2
+0	80	1643324752834258656	CMakeFiles/logicalOperators.dir/main.c.o	cb4cf2461dcd4b5d
+80	171	1643324752927837257	logicalOperators	304a907e07a340a2
