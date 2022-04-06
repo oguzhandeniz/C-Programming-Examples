@@ -1,0 +1,11 @@
+# ninja log v5
+0	298	1643824205154197003	CMakeFiles/characterStrings.dir/main.c.o	92db2bddf7724de3
+299	389	1643824205243809428	characterStrings	4419eff22ff34204
+1	80	1643824298497109773	CMakeFiles/characterStrings.dir/main.c.o	92db2bddf7724de3
+80	157	1643824298573491613	characterStrings	4419eff22ff34204
+1	72	1643824329003075615	CMakeFiles/characterStrings.dir/main.c.o	92db2bddf7724de3
+73	132	1643824329063287720	characterStrings	4419eff22ff34204
+1	108	1643824442811384350	CMakeFiles/characterStrings.dir/main.c.o	92db2bddf7724de3
+108	216	1643824442924785766	characterStrings	4419eff22ff34204
+1	76	1643824507395648905	CMakeFiles/characterStrings.dir/main.c.o	92db2bddf7724de3
+77	160	1643824507481182703	characterStrings	4419eff22ff34204
