@@ -1,0 +1,6 @@
+# ninja log v5
+0	173	1643850241872467732	CMakeFiles/recursiveFunction.dir/main.c.o	35f9865c57b3477b
+175	279	1643850241978247641	recursiveFunction	1091d96438246ca8
+1	70	1643850291316443127	CMakeFiles/recursiveFunction.dir/main.c.o	35f9865c57b3477b
+1	100	1643850380282621348	CMakeFiles/recursiveFunction.dir/main.c.o	35f9865c57b3477b
+101	179	1643850380365883625	recursiveFunction	1091d96438246ca8
