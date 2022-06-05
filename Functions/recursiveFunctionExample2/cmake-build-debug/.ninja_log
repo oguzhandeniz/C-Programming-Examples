@@ -1,0 +1,5 @@
+# ninja log v5
+1	211	1643851855243124671	CMakeFiles/recursiveFunctionExample2.dir/main.c.o	86113b512e34101e
+211	295	1643851855329378041	recursiveFunctionExample2	d9ca1a3a9ec34827
+0	58	1643851876556557124	CMakeFiles/recursiveFunctionExample2.dir/main.c.o	86113b512e34101e
+59	119	1643851876617643170	recursiveFunctionExample2	d9ca1a3a9ec34827
