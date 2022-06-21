@@ -1,0 +1,5 @@
+# ninja log v5
+0	152	1644348145850066547	CMakeFiles/dmaReallocAndCalloc.dir/main.c.o	fe6ea7520c9cf2e7
+153	218	1644348145916427894	dmaReallocAndCalloc	e82f8504b77c7d53
+2	84	1644348679817195390	CMakeFiles/dmaReallocAndCalloc.dir/main.c.o	fe6ea7520c9cf2e7
+85	151	1644348679884926059	dmaReallocAndCalloc	e82f8504b77c7d53
