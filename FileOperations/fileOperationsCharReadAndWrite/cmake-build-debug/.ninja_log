@@ -1,0 +1,9 @@
+# ninja log v5
+0	55	1644661375181119786	CMakeFiles/fileOperationsCharReadAndWrite.dir/main.c.o	e78a703384909d85
+56	128	1644661375254359427	fileOperationsCharReadAndWrite	f6d416ee0f56d684
+0	56	1644661556267203488	CMakeFiles/fileOperationsCharReadAndWrite.dir/main.c.o	e78a703384909d85
+56	122	1644661556333966736	fileOperationsCharReadAndWrite	f6d416ee0f56d684
+1	50	1644661701074298223	CMakeFiles/fileOperationsCharReadAndWrite.dir/main.c.o	e78a703384909d85
+50	116	1644661701140916054	fileOperationsCharReadAndWrite	f6d416ee0f56d684
+0	59	1644661825072456223	CMakeFiles/fileOperationsCharReadAndWrite.dir/main.c.o	e78a703384909d85
+59	125	1644661825138861140	fileOperationsCharReadAndWrite	f6d416ee0f56d684
