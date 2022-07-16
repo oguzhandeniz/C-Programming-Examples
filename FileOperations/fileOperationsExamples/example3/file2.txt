@@ -1,0 +1,8 @@
+OguzhanDeniz	65	85	78.000000	C	Successful.
+HalimCanOcakli	75	65	68.500000	C	Successful.
+BerkinTopaloglu	85	20	42.750000	F	Unsuccessful.
+MustafaGebal	100	65	77.250000	C	Successful.
+HuseyinBerkAzar	75	35	49.000000	F	Unsuccessful.
+SelimIsık	85	95	91.500000	A	Successful.
+MehmetYilmaz	45	68	59.950000	D	Successful.
+JamesBond	90	100	96.500000	A	Successful.
