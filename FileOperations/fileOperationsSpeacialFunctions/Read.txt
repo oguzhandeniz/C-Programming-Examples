@@ -1,0 +1,8 @@
+OguzhanDeniz 3.75 BilgisayarMuhendisligi
+HalimCanOcakli 4.45 BilgisayarMuhendisligi
+BerkinTopaloglu 5.25 BilgisayarMuhendisligi
+MustafaGebal 4.85 ElektronikMuhendisligi
+BerkAzar 3.30 ElektronikMuhendisligi
+SedaYilmaz 2.25 PDR
+AhmetKorkmaz 1.50 Edebiyat
+FerhatDeniz 2.48 Mekatronik
