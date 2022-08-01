@@ -1,0 +1,48 @@
+Name-Surname : OguzhanDeniz
+Average : 3.75
+Department : BilgisayarMuhendisligi
+
+----------------------------
+
+Name-Surname : HalimCanOcakli
+Average : 4.45
+Department : BilgisayarMuhendisligi
+
+----------------------------
+
+Name-Surname : BerkinTopaloglu
+Average : 5.25
+Department : BilgisayarMuhendisligi
+
+----------------------------
+
+Name-Surname : MustafaGebal
+Average : 4.85
+Department : ElektronikMuhendisligi
+
+----------------------------
+
+Name-Surname : BerkAzar
+Average : 3.30
+Department : ElektronikMuhendisligi
+
+----------------------------
+
+Name-Surname : SedaYilmaz
+Average : 2.25
+Department : PDR
+
+----------------------------
+
+Name-Surname : AhmetKorkmaz
+Average : 1.50
+Department : Edebiyat
+
+----------------------------
+
+Name-Surname : FerhatDeniz
+Average : 2.48
+Department : Mekatronik
+
+----------------------------
+
