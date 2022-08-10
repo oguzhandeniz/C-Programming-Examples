@@ -1,0 +1,42 @@
+-----------------------------------------------------------------------------
+Room Number:12
+Customer Name-Surname:ahmet yavuz
+Number of People:1
+Total Amount:4650.00TL
+Check-in Date:5:4:2021
+Check-ot Date:6:5:2021
+-----------------------------------------------------------------------------
+Room Number:22
+Customer Name-Surname:Oguzhan Deniz
+Number of People:2
+Total Amount:9000.00TL
+Check-in Date:4:4:2021
+Check-ot Date:4:5:2021
+-----------------------------------------------------------------------------
+Room Number:33
+Customer Name-Surname:Halimcan Ocakli
+Number of People:2
+Total Amount:2700.00TL
+Check-in Date:6:6:2022
+Check-ot Date:15:6:2022
+-----------------------------------------------------------------------------
+Room Number:12
+Customer Name-Surname:Berkin Topalolgu
+Number of People:3
+Total Amount:149400.00TL
+Check-in Date:3:4:2021
+Check-ot Date:5:3:2022
+-----------------------------------------------------------------------------
+Room Number:45
+Customer Name-Surname:Mustafa Gebal
+Number of People:4
+Total Amount:$6000.00TL
+Check-in Date:6:7:2022
+Check-ot Date:16:7:2022
+-----------------------------------------------------------------------------
+Room Number:65
+Customer Name-Surname:mehmet yıldız
+Number of People:5
+Total Amount:$7500.00TL
+Check-in Date:9:8:2022
+Check-ot Date:19:8:2022
