@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "structsAndDynamicMemoryAllocation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "structsAndDynamicMemoryAllocation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-structsAndDynamicMemoryAllocation-Debug-ccad12fc9fae708a7457.json",
+					"name" : "structsAndDynamicMemoryAllocation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/oguzhan/Desktop/CProgrammingExamples/StructUnionsEnumerations/structsAndDynamicMemoryAllocation/cmake-build-debug",
+		"source" : "/Users/oguzhan/Desktop/CProgrammingExamples/StructUnionsEnumerations/structsAndDynamicMemoryAllocation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
