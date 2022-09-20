@@ -1,0 +1,3 @@
+/Users/oguzhan/Desktop/CProgrammingExamples/StructUnionsEnumerations/homeworkQuestions/question1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oguzhan/Desktop/CProgrammingExamples/StructUnionsEnumerations/homeworkQuestions/question1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oguzhan/Desktop/CProgrammingExamples/StructUnionsEnumerations/homeworkQuestions/question1/cmake-build-debug/CMakeFiles/question1.dir
