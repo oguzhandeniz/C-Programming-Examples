@@ -1,0 +1,3 @@
+/Users/oguzhan/Desktop/CProgrammingExamples/Pointers/pointersAndArrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oguzhan/Desktop/CProgrammingExamples/Pointers/pointersAndArrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oguzhan/Desktop/CProgrammingExamples/Pointers/pointersAndArrays/cmake-build-debug/CMakeFiles/pointersAndArrays.dir
